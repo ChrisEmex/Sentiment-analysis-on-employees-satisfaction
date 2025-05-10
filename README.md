@@ -1,5 +1,5 @@
 # Analyzing Employee Job Satisfaction through Sentiment Analysis for Enhanced Workplace Improvement and Business Success
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/18b62b0b-e4a9-4bd5-9c4a-50c9f8b1d4e1)
 
 # 🚀 Usage
 Load the raw data
