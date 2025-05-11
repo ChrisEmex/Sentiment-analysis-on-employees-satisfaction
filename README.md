@@ -23,7 +23,7 @@ Analyze results
 Aggregate sentiment scores and visualize trends to identify positive, neutral, and negative sentiment distributions across key domains.
 
 # 🗂️ Dictionaries & Lexicons
-
+ (if you need these dictionaries-lexicon contact me)
 DoS.txt / DoSP.txt: Dictionary of superiors-related terms and their polarity.
 DoW.txt / DoWE.txt: Dictionary for Working environment-related terms and environment descriptors.
 Negations.txt: Words that invert sentiment.
