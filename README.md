@@ -8,27 +8,43 @@ Open Data/answers.xlsx to review the questionnaire responses.
 # Preprocess text
 
 Run Preprocess/preprocess_for_Lexicons.ipynb to clean, tokenize, and normalize employee responses and the results of salary, working environment and superiors.
+
 Use Preprocess/preprocess_Lexicon_workOO.ipynb  to clean, tokenize, and normalize employee responses on overall work entity and the results.
+
 Handle multiple-choice items
+
 Execute Preprocess/Multiple-Choice-Question.ipynb a bar plot for multiple choice results.
 
 # Perform sentiment analysis
+
 Apply lexicon-based sentiment scoring using provided dictionaries under Dictionaries/:
+
 Dictionary of Satisfaction (DoS)
+
 Dictionary of Work (DoW)
+
 Dictionary of Superiors (DoSp)
 
 # Negations, suffixes, tones, and stopwords
+
 Analyze results
+
 Aggregate sentiment scores and visualize trends to identify positive, neutral, and negative sentiment distributions across key domains.
 
 # 🗂️ Dictionaries & Lexicons
+
  (if you need these dictionaries-lexicon contact me)
+ 
 DoS.txt / DoSP.txt: Dictionary of superiors-related terms and their polarity.
+
 DoW.txt / DoWE.txt: Dictionary for Working environment-related terms and environment descriptors.
+
 Negations.txt: Words that invert sentiment.
+
 Useless_words.txt: Words to be removed during preprocessing.
+
 suffixes.txt: Common word endings for stemming.
+
 tones.txt: Markers in greek language.
 
 
